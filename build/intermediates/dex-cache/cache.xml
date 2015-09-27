@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahaidry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-de4cef36d52d57ab8fb436ccde2e582a382ba38a.jar" />
+    </item>
+    <item
+        jar="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e40e638a813b647a7cca2c8408c0c7ca137a1ee3.jar" />
+    </item>
+    <item
+        jar="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/pre-dexed/debug/classes-af5585f6103e8b7b309d89d5dfd88872cbeb4132.jar" />
+    </item>
+    <item
+        jar="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ahaidry/AndroidStudioProjects/MyFirstApp/app/build/intermediates/pre-dexed/debug/classes-48e72444f8725c3e9e1148b347c60d4f8b310703.jar" />
+    </item>
+
+</items>
